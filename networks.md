@@ -508,4 +508,34 @@ CIDR (Classless Inter Domain Routing).
 
 ICMP - Internet Control Message Protocol.
 
- 
+
+
+
+----------------------------
+
+DHCP
+
+----------------------------
+
+
+
+# NAT (Network Address Translation)
+
+...
+
+
+
+ДЗ: Алгоритм Дейкстры. Line state. Дистанционный вектор.
+
+
+
+Системы ввода вывода:
+
+1. Общая память
+2. Общая шина
+3. Использование матричного коммутатора
+
+
+
+# IPv6
+
