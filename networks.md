@@ -606,3 +606,28 @@ DHCP
 
 Протокол текстовый.
 
+Пример:
+
+```
+GET /users HTTP/1.1
+Host: resure.net
+Connection: close
+User-Agent: Mozilla/4.0
+Accept-Language: ru
+```
+
+- GET
+- POST
+- HEAD
+- PUT
+- DELETE
+
+
+## FTP
+
+File Transfer Protocol.
+
+
+## Электронная почта
+
+
