@@ -631,3 +631,31 @@ File Transfer Protocol.
 ## Электронная почта
 
 
+## DNS
+
+### Типы DNS-запроса
+
+- Рекурсивный
+- Итерационный
+
+
+### Запись о ресурсах DNS
+
+RR (Resource Records): `(Name, Value, Type, TTL)`
+
+
+#### Типы записей
+
+- A — айпишник (IPv4) - `(resure.net, 123.45.67.89, A)`
+- АААА — аааайпишник (IPv6) — `(resure.net, ..., AAAA)`
+- NS — nameserver — `(resure.net dns1.yandex.net, NS)`
+- CNAME — canonical name — `(www.resure.net, origin.meteor.com, CNAME)`
+- MX — mail exchange — `(bmstu.ru, mail.admin.bmstu.ru, MX)`
+- SRV — службы (AD, XMPP, etc.)
+- TXT — текстовая информация
+- PTR - обратный указатель для доменов (IP - Domain)
+
+
+#### DNS-сообщения
+
+
